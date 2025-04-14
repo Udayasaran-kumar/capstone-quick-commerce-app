@@ -45,7 +45,7 @@ Screenshots
 
 The home screen displays trending categories and top picks for the day.
 
-![Home Screen](./images/img1.jpg)
+![Home Screen]<img src="./images/img1.jpg" alt="Home Screen" width="300" />
 
 ---
 
@@ -53,11 +53,11 @@ The home screen displays trending categories and top picks for the day.
 
 Each product page shows images, descriptions, and add-to-cart options.
 
-![Product Details](./images/img2.jpg)
+![Product Details]<img src="./images/img2.jpg" alt="Home Screen" width="300" />
 
-![Sign-up](./images/img3.jpg)
+![Sign-up]<img src="./images/img3.jpg" alt="Home Screen" width="300" />
 
-![Sign-in](./images/img4.jpg)
+![Sign-in]<img src="./images/img4.jpg" alt="Home Screen" width="300" />
 
 
 📂 Project Presentation link:https://drive.google.com/drive/folders/18yztnbpBkOZ9c_A5tCBSitOwi5f5zxJP?usp=sharing 
